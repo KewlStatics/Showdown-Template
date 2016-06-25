@@ -38,6 +38,7 @@ This boilerplate is brought to you and maintained by the following people:
 
 [![Philip La](https://avatars3.githubusercontent.com/u/5875574?s=117)](http://creaturephil.github.io) | [![jd](https://avatars1.githubusercontent.com/u/2987451?s=117)](https://github.com/jd4564) | [![Fender](https://avatars2.githubusercontent.com/u/8406186?s=117)](https://github.com/TheFenderStory) |
 [![Paul71](https://avatars2.githubusercontent.com/u/18008891?v=3&u=bcc27b86ac0179cfe4e351b1eed2acd8cc6c89f9&s=140)](https://github.com/kewlstatics)
+
 :---:|:---:|:---:|:---:|:---:
 [Philip La](http://creaturephil.github.io) | [jd](https://github.com/jd4564) | [Fender](https://github.com/TheFenderStory)  | [Paul71](https://github.com/kewlstatics)
 
